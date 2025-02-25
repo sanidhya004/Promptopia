@@ -35,3 +35,56 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Promptopia
+
+
+This project is a Next.js 14 application that empowers users to discover, create, and share AI prompts. It features a robust CRUD system, user authentication, and a modern, responsive design.
+
+## 📋 Table of Contents
+
+* [🤖 Introduction](#-introduction)
+* [⚙️ Tech Stack](#️-tech-stack)
+* [🔋 Features](#️-features)
+* [🤸 Quick Start](#-quick-start)
+* [🔗 Links](#-links)
+
+## 🤖 Introduction
+
+This application serves as a community hub for sharing and discovering AI prompts. Built with Next.js 14, it provides a seamless user experience with features like user profiles, prompt searching, and secure authentication. This project was developed following a tutorial from JavaScript Mastery on YouTube, but has been customized and deployed as my own application.
+
+## ⚙️ Tech Stack
+
+* Next.js 14
+* MongoDB
+* NextAuth
+* Tailwind CSS
+
+## 🔋 Features
+
+* **Prompt Sharing & Discovery:**
+    * Discover AI prompts shared by the community.
+    * Create and share your own AI prompts.
+* **CRUD Functionality:**
+    * Edit and delete your created prompts.
+* **User Profiles:**
+    * Dedicated profile pages showcasing user-created prompts.
+    * View profiles of other creators.
+* **User Experience:**
+    * "Copy to Clipboard" functionality for easy prompt usage.
+    * Search prompts by specific tags.
+    * Modern, responsive design with a sleek user interface.
+* **Authentication:**
+    * Secure Google authentication using NextAuth.
+* **Responsiveness:**
+    * Fully responsive design for optimal viewing on all devices.
+
+## 🤸 Quick Start
+
+Follow these steps to get the project running locally:
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+* Git
+* Node.js
+* npm (Node Package Manager)
