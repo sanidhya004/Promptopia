@@ -45,7 +45,7 @@ This project is a Next.js 14 application that empowers users to discover, create
 * [⚙️ Tech Stack](#️-tech-stack)
 * [🔋 Features](#️-features)
 * [🤸 Quick Start](#-quick-start)
-* [🔗 Links](#-links)
+
 
 ## 🤖 Introduction
 
